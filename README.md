@@ -275,9 +275,15 @@ void assert_failed(uint8_t *file, uint32_t line)
  <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2786106a-8a05-4fcb-bd85-14d5b9f413be" />
 
  ## Circuit board :
+ 
+ Without Interrupt:
 
  <img width="768" height="904" alt="image" src="https://github.com/user-attachments/assets/f5803f8c-4971-4c73-9158-3e4f089676c3" />
+ 
 
+ With Interrupt:
+ 
+ <img width="566" height="642" alt="image" src="https://github.com/user-attachments/assets/6f68949a-5bf0-4a94-8745-ec748596c673" />
 
  
 ## Result :
